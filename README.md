@@ -26,7 +26,6 @@ Customer churn is a major issue for telecom companies. Retaining customers is mo
 - **Languages:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
 - **Notebook:** Jupyter
-- **(Optional)** Deployment: Streamlit / Flask
 
 ## 📈 EDA Highlights
 
