@@ -1,4 +1,6 @@
-# Telco-Customer-Churning-Analysis
+# 📊 Telco Customer Churn Analysis
+
+This project aims to analyze customer churn for a telecom company using data analytics and machine learning techniques. It identifies patterns and key factors contributing to customer churn, helping businesses make data-driven retention strategies.
 
 
 ## 🔍 Problem Statement
